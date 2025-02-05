@@ -9,7 +9,7 @@
 - Анализ и документирование результатов тестирования.
 
 ## Структура проекта
-- **[check list.docx](./check%20list.docx)**: содержит чек-листы для проверки API.
+- **[Check List.xlsx](./check%20list.xlsx)**: содержит чек-листы для проверки API.
 - **[Test Cases.xlsx](./Test%20Cases.xlsx)**: включает тест-кейсы с подробным описанием шагов, ожидаемыми результатами и статусами выполнения.
 - **API для тестирования**: [Swagger-Petstore API](https://petstore.swagger.io/#/).
 
@@ -24,8 +24,7 @@
 
 ## Инструменты
 - **Insomnia**: для выполнения HTTP-запросов и анализа ответов.
-- **Google Docks**: для документирования чек-листов.
-- **Gooogle Docks**: для оформления тест-кейсов.
+- **Google Docks**: для документирования чек-листов и оформления тест-кейсов.  
 
 ## Выводы
 - На данный момент пока рано говорить об соответствии API заявленным функциональным требованиям, дополнительные чек-листы и тест-кейсы будут готовы в ближайшее время.  
@@ -39,4 +38,5 @@
 Если у вас есть вопросы или предложения, свяжитесь со мной:  
 - Email: [a.starkovjr@gmail.com](mailto:a.starkov@gmail.com)
 - Telegram: https://t.me/AlexStarkJr
-- Google Docks с проектами по тестированию - https://drive.google.com/drive/folders/1Tcj648y9MdwFNRL-OTrIGNK_voaMA1WK?usp=drive_link
+- Google Docks с проектами по тестированию - https://drive.google.com/drive/folders/1Tcj648y9MdwFNRL-OTrIGNK_voaMA1WK?usp=drive_link  
+- Git программирование - https://github.com/Alexandr-Starkov  
